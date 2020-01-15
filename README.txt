@@ -1,3 +1,5 @@
+Personal version of pong made for Game Design at William and Mary
+Henry Rosalsky
 **PREREQUISITES**
 
 - CMAKE (www.cmake.org)
